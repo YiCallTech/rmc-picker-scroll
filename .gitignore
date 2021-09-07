@@ -20,11 +20,7 @@ Thumbs.db
 *.pyo
 node_modules
 .cache
-*.css
-build
 coverage
-*.js
-*.jsx
 *.map
 !tests/*.js
 !/index*.js
